@@ -30,14 +30,13 @@
 <a href="https://www.linkedin.com/in/deema-al-maqadma" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://web.telegram.org/a/#5550842686" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" height="30" width="40" />
-</a>
 <a href="https://www.facebook.com/share/19zGWrsAsX/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/deema_maqadma?igsh=a3pyMnpkcXA3Znl3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/deema al-maqadma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deema al-maqadma" height="30" width="40" />
 </a>
 </p>
 
@@ -58,29 +57,15 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deema-AL-Maqadma&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deema-al-maqadma&show_icons=true&locale=en&layout=compact" alt="deema-al-maqadma" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deema-AL-Maqadma&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deema-al-maqadma&show_icons=true&locale=en" alt="deema-al-maqadma" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">🔥 Highlights</h3>
-<p align="center">
-  • Total contributions count  
-  • Current streak  
-  • Longest streak  
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deema-al-maqadma&" alt="deema-al-maqadma" /></p>
 
 ---
 
 <h1 align="center">💙 Keep Creating 💙</h1>
 
 ---
+
