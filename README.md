@@ -11,10 +11,10 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Deema-AL-Maqadma&theme=onedark" alt="GitHub Trophies" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=Deema-AL-Maqadma&theme=onedark](https://github-profile-trophy.vercel.app/?Deema-AL-Maqadma=ryo-ma&theme=chalk
+)" alt="GitHub Trophies" />
   </a> 
 </p>
-
 ---
 
 ### 📫 How to reach me:
