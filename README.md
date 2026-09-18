@@ -108,7 +108,7 @@ Collaborative ecosystem project focusing on backend architecture and clean codin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
+//<p align="center">
   <!-- أكثر اللغات استخداماً -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deema-AL-Maqadma&layout=compact&theme=dark&hide_border=true" />
 </p>
