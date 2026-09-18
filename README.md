@@ -1,16 +1,14 @@
----
+<h1 align="center">Hi, I'm Deema Mohammed AL-Maqadma🌧️</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi,+I'm+Deema+Mohammed+AL-Maqadma+🌧️;Software+Engineer+in+Backend+Development;Interested+in+Artificial+Intelligence+and+Machine+Learning" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Deema Mohammed Ahmed AL-Maqadma</h1>
-<h3 align="center">💡 Computer Science student with a passion for building smart, practical solutions.</h3>
+I'm Deema, a software engineer specializing in backend development with Kotlin and microservices. Passionate about AI, machine learning, and data science, exploring algorithms, training models, and analyzing data to deliver meaningful insights.
 
 ---
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Deema-AL-Maqadma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Deema-AL-Maqadma&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -34,34 +32,82 @@
 <a href="https://www.instagram.com/deema_maqadma?igsh=a3pyMnpkcXA3Znl3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/deema al-maqadma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deema al-maqadma" height="30" width="40" />
+<a href="https://www.youtube.com/c/deema al-maqadma" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deema al-maqadma" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+## 🛠️ Software Engineering Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-darkgreen?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-lightblue?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-darkblue?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-green?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🤖 Artificial Intelligence & Data Science Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deema-al-maqadma&show_icons=true&locale=en&layout=compact" alt="deema-al-maqadma" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-red?style=for-the-badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deema-al-maqadma&" alt="deema-al-maqadma" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SVM-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Naive_Bayes-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression-darkblue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ---
 
-<h1 align="center">💙 Keep Creating 💙</h1>
+## 🚀 Featured Projects
+
+### [AI-Powered Crisis Response – NLP Project](https://github.com/Deema-AL-Maqadma/AI-Powered-Crisis-Response-NLP-Project)
+Disaster tweet classification using NLP and ML models (SVM, CNN, LSTM).
+
+### [ByteBloom Academy Ecosystem](https://github.com/ByteBloom-The-Kernels-Team/ByteBloom_Academy)
+Collaborative ecosystem project focusing on backend architecture and clean coding.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deema-AL-Maqadma&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=dark" />
+</p>
+
+---
+
+<h3 align="center">💙 Keep Creating 💙</h3></a>
+</p>
+
+---
