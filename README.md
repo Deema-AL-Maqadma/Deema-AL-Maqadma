@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Deema Mohammed AL-Maqadma🌧️</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi,+I'm+Deema+Mohammed+AL-Maqadma+🌧️;Software+Engineer+in+Backend+Development;Interested+in+Artificial+Intelligence+and+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi,+I'm+Deema+Mohammed+AL-Maqadma+🌧️;Software+Engineer+in+Backend+Development;AI+%26+ML+Enthusiast" />
 </p>
 
 I'm Deema, a software engineer specializing in backend development with Kotlin and microservices. Passionate about AI, machine learning, and data science, exploring algorithms, training models, and analyzing data to deliver meaningful insights.
