@@ -101,8 +101,16 @@ Collaborative ecosystem project focusing on backend architecture and clean codin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deema-AL-Maqadma&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=dark" />
+  <!-- الإحصائيات العامة -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Deema-AL-Maqadma&show_icons=true&theme=dark&hide_border=true" />
+
+  <!-- الـ Streak graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- أكثر اللغات استخداماً -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deema-AL-Maqadma&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
