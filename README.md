@@ -13,13 +13,13 @@ I'm Deema, a software engineer specializing in backend development with Kotlin a
 
 ---
 
-### 📫 How to reach me:
-- Email: dema.maqadma@gmail.com  
+### 📫 How to reach me:  Email: dema.maqadma@gmail.com  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <p align="center">
 <a href="https://github.com/Deema-AL-Maqadma" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
@@ -35,6 +35,7 @@ I'm Deema, a software engineer specializing in backend development with Kotlin a
 <a href="https://www.youtube.com/c/deema al-maqadma" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deema al-maqadma" height="30" width="40" />
 </a>
+</p> 
 </p>
 
 ---
@@ -101,7 +102,8 @@ Collaborative ecosystem project focusing on backend architecture and clean codin
 ## 📊 GitHub Stats
 
   <!-- الـ Streak graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=dark&hide_border=true" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deema-AL-Maqadma&theme=dark&hide_border=true" />
 </p>
 
 ---
