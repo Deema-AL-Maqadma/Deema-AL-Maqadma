@@ -32,7 +32,7 @@ I'm Deema, a software engineer specializing in backend development with Kotlin a
 <a href="https://www.instagram.com/deema_maqadma?igsh=a3pyMnpkcXA3Znl3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/deema al-maqadma" target="blank">
+<a href="https://www.youtube.com/@Deema-AL-Maqadma" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deema al-maqadma" height="30" width="40" />
 </a>
 </p> 
